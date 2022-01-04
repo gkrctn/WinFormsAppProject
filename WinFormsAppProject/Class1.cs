@@ -6,16 +6,10 @@ using System.Threading.Tasks;
 
 namespace WinFormsAppProject
 {
-    public class Canli
+    class Class1
     {
-        public int Yas { get; set; }
-
-        void OksijenAl()
-        {
 
 
-        }
-       
 
     }
 }
